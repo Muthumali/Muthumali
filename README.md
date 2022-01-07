@@ -2,10 +2,7 @@
 <head>
 <style>
 main>h1:nth-child(1){
-color:black;
-}
-main>h1:nth-child(1){
-color:red;
+color:blue;
 }
 main>div{
 position:absolute;
