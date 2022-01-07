@@ -1,8 +1,28 @@
-<h1>Hello..! I'm Muthu</h1>
-<h2>Study at IJSE | Institute of Software Engineering </h2>
-<img src="assets/image/my1.jpg" width="400">
-<img src="assets/image/my2.png" width="400">
-<img src="assets/image/my3.png" width="400">
-<img src="assets/image/my4.png" width="400">
-<img src="assets/image/my5.png" width="400">
-<img src="assets/image/my6.png" width="400">
+<html>
+<head>
+</head>
+<body>
+<header>
+<style>
+main>h1:nth-child(1){
+color:black;
+}
+main>h1:nth-child(1){
+color:red;
+}
+main>div:nth-child(1){
+position:absolute;
+width:100wh;
+height:500px:
+}
+</style>
+
+</header>
+<main>
+<h1>Hello,</h1>
+<h1>I'm Muthu Dilrukshi</h1>
+<div><img src="assets/image/pic1.png"></div>
+
+</main>
+</body>
+</html>
