@@ -1,27 +1,27 @@
-### Hi there 👋
+### Hi their 👋
 
 <!--
-*Muthumali/Muthumali* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Muthumali/Muthumali* is a ✨ special ✨ repository coz its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 me’m currently working on ...
+- 🌱 me’m currently learning ...
+- 👯 me’m looking to collaborate on ...
+- 🤔 me’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Muthumali Dilrukshi;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+me'm+Muthumali+Dilrukshi;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
 
-<h3 align="center"><b><i>Full Stack Developer</i></b></h3>
+<h3 align="center"><b><me>Full Stack Developer</me></b></h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
 
-<img align="center" alt="myProfile" src="https://github.com/Muthumali/My-Portfoliyo/blob/main/assets/image/My%20Web%20Profile%20%E2%80%93%20Figma%20-%20Google%20Chrome%207_24_2022%208_44_19%20PM%20(2).png" height="500" width="830">
+<img align="center" alt="myProfile" src="https://github.com/Muthumali/Muthumali/blob/master/assets/image/pic1.png" height="500" width="830">
 
 <img src="https://komarev.com/ghpvc/?username=Muthumali&label=Profile%20views&color=0e75b6&style=flat" alt="Muthumali" /> </p>
 
@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ## 👨‍🦰 About me :
 
-- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
-- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
-- 💻 I am a competitive programmer mainly at `Codeforces`.
+- 👨‍🎓 me'm`Studying` at IJSE-Institute of Software Engineering...
+- 🌱 me’m currently learning `Computer Science` and `Software Engineering`.
+- 💻 me am a competitive programmer mainly at `Codeforces`.
 - 👨 Always `learning new things`
-- 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
+- 👯 me’m looking to collaborate.
+- 🤔 me’m looking for help with Coding.
+- 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`, `JavaScript` , `ReactJs` , `SpringMVC`
   <br>
 <div>
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
-**If you like what I do, maybe consider buying me a coffee** 🥺 👇
+**If you like wat me do, maybe consider buying me a coffee** 🥺 👇
 
 <a href="https://www.buymeacoffee.com/Muthumali"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </h3>
 
 
-<img alt="Coding" width="900" src="https://github.com/Muthumali/red-alpha/blob/main/github-contribution-grid-snake.svg">
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
 ---
 
@@ -110,8 +110,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/Muthumali/github-readme-stats"><img alt="Muthumali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthumali&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>
 
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthumali&langs_count=5&theme=gotham" alt="Muthumali| My GitHub Language Stats"/> </p></div>
-
-**My Contributions** 😥 <br>
-
-<a href="https://github.com/Muthumali/github-readme-activity-graph"><img alt="Muthumali's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muthumali&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+ <!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthumali&langs_count=5&theme=gotham" alt="Muthumali| My GitHub Language Stats"/> -->
