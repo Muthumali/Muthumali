@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 ## 🔥 Streak Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muthumali&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiyumalNipuna60&theme=monokai)
 <br>
 <br>
-[![](https://github-readme-streak-stats.herokuapp.com?user=Muthumali&theme=soft-green)]
+![](https://github-readme-streak-stats.herokuapp.com?user=PiyumalNipuna60&theme=soft-green)
 <br>
 <br>
 
